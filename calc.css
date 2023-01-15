@@ -105,10 +105,10 @@ button:hover {
 }
 
 .shake {
-  -webkit-animation-name: shake;
-  -webkit-animation-duration: 0.5s;
-  -webkit-transform-origin: 50% 50%;
-  -webkit-animation-iteration-count: infinite;
+  animation-name: shake;
+  animation-duration: 0.5s;
+  transform-origin: 50% 50%;
+  animation-iteration-count: infinite;
 }
 
 .popup {
